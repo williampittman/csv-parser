@@ -1,0 +1,16 @@
+{
+  "name": "csv-parse",
+  "version": "1.0.0",
+  "description": "parse csv file",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "WP",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.8",
+    "express": "^4.16.4",
+    "mkdirp": "^0.5.1"
+  }
+}
